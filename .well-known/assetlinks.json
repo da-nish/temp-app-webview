@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.propsharecapital.ihma.dev",
+      "sha256_cert_fingerprints": [
+        "0F:2B:EA:18:3D:D2:F6:20:00:5D:FE:0D:2D:72:B5:1C:6F:C0:57:EE:EB:89:4B:F8:73:51:C7:60:84:89:10:38"
+      ]
+    }
+  }
+]
